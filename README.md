@@ -1,4 +1,4 @@
-# LoginApp
+# A simple CRUD application with JWT token authorization (Login and signup), interceptors, and authGuard.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
